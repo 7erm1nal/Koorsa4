@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T07:54:26.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx GX)" etag="sOXcbPFRBndsAZD1DUox" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T14:01:15.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0 (Edition Yx GX)" etag="TL9Y5_yAnqaO8z7ps7NR" version="23.1.1" type="github">
   <diagram name="Страница — 1" id="nWpDsTg0DubP4XLfbcoC">
-    <mxGraphModel dx="1009" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,15 @@
         </mxCell>
         <mxCell id="BTuBhVGLbShFHvyTyABA-82" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;direction=east;" parent="1" vertex="1">
           <mxGeometry x="578" y="784" width="40" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="vV0njeCOKQoMSkjfSQQA-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="259.8500000000001" y="632.78" width="14.44" height="14.44" as="geometry" />
+        </mxCell>
+        <mxCell id="vV0njeCOKQoMSkjfSQQA-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="259.8500000000001" y="447.5" width="14.44" height="14.44" as="geometry" />
+        </mxCell>
+        <mxCell id="vV0njeCOKQoMSkjfSQQA-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.25,0],[0.75,0],[1,0.25],[1,0.75],[0.75,1],[0.25,1],[0,0.75],[0,0.25]];polyline=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="702.78" width="14.44" height="14.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
